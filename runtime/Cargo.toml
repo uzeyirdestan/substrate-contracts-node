@@ -128,4 +128,4 @@ try-runtime = [
 	"pallet-assets/try-runtime",
 	"sp-runtime/try-runtime",
 ]
-parachains = []
+parachain = []
